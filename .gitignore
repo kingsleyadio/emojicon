@@ -4,7 +4,6 @@
 .DS_Store
 .idea
 atlassian-ide-plugin.xml
-gradle.properties
 example/src/main/bin
 example/src/main/gen
 library/src/main/bin
